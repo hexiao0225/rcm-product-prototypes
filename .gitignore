@@ -1,0 +1,7 @@
+node_modules
+dist
+smoke/dist
+*.tsbuildinfo
+.claude/worktrees
+.DS_Store
+*.local
